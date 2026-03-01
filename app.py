@@ -582,8 +582,8 @@ if result_gdf is not None:
 st.markdown("---")
 st.markdown(
     """
-    <div style='text-align: center; color: #4a4a8a; padding: 1rem; font-size: 0.85rem;'>
-        🗺️ أداة الربط المكاني والوصفي | تم التطوير باستخدام Python و Streamlit
+    <div style='text-align: center; color: #0B3968; padding: 1rem; font-size: 0.95rem; font-weight: 600;'>
+        🗺️ أداة الربط المكاني والوصفي | برمجة وتطوير أنس محمد زقوت
     </div>
     """,
     unsafe_allow_html=True,

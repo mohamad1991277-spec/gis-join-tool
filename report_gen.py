@@ -29,7 +29,9 @@ def make_arabic_report():
     set_rtl(p)
     p = doc.add_paragraph(f"رابط التطبيق المباشر: https://gis-join-tool.streamlit.app")
     set_rtl(p)
-    p = doc.add_paragraph("التاريخ: فبراير 2026")
+    p = doc.add_paragraph("إعداد الطالب: أنس محمد زقوت")
+    set_rtl(p)
+    p = doc.add_paragraph("التاريخ: مارس 2026")
     set_rtl(p)
 
     # 1. فكرة التطبيق
